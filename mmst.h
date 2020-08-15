@@ -1,5 +1,5 @@
-#ifndef MEMORYMANAGER_H
-#define MEMORYMANAGER_H
+#ifndef MMST_H
+#define MMST_H
 
 #include <stdio.h>
 #include <stdlib.h>
